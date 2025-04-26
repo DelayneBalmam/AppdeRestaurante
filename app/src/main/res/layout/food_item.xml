@@ -61,7 +61,6 @@ Guia Completo e Atualizado + SUPER DICAS 🔥🔥( 2023 )"
         app:layout_constraintStart_toEndOf="@id/containerImg"
         app:layout_constraintTop_toBottomOf="@id/txtFoodName"
         app:layout_constraintEnd_toEndOf="parent"
-
         />
 
 
